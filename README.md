@@ -1,1 +1,1 @@
-# dungeons-and-dragons-api
+# Dungeons and Dragons game. Backend.
